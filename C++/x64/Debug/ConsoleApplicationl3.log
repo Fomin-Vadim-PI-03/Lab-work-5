@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationl3.cpp
+D:\[Misc\Обучение\Программирование\5\C++\ConsoleApplicationl3.cpp(203): warning C4715: 'Ship::operator+': not all control paths return a value
+  ConsoleApplicationl3.vcxproj -> D:\[Misc\Обучение\Программирование\5\C++\x64\Debug\ConsoleApplicationl3.exe
